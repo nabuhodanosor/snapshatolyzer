@@ -1,3 +1,7 @@
+credentials-snap.csv
+._credentials-snap.csv
+Pipfile.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
